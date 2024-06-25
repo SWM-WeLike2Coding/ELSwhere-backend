@@ -4,3 +4,12 @@
 [submodule "apigateway-server"]
 	path = apigateway-server
 	url = https://github.com/SWM-WeLike2Coding/ELSwhere-apigateway-server.git
+[submodule "user-service"]
+	path = user-service
+	url = https://github.com/SWM-WeLike2Coding/ELSwhere-user-service.git
+[submodule "product-service"]
+	path = product-service
+	url = https://github.com/SWM-WeLike2Coding/ELSwhere-product-service.git
+[submodule "analysis-service"]
+	path = analysis-service
+	url = https://github.com/SWM-WeLike2Coding/ELSwhere-analysis-service.git
