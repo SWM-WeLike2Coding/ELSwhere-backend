@@ -1,0 +1,6 @@
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/SWM-WeLike2Coding/ELSwhere-eureka-server.git
+[submodule "apigateway-server"]
+	path = apigateway-server
+	url = https://github.com/SWM-WeLike2Coding/ELSwhere-apigateway-server.git
