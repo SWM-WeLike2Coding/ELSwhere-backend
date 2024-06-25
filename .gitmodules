@@ -13,3 +13,6 @@
 [submodule "analysis-service"]
 	path = analysis-service
 	url = https://github.com/SWM-WeLike2Coding/ELSwhere-analysis-service.git
+[submodule "notification-service"]
+	path = notification-service
+	url = https://github.com/SWM-WeLike2Coding/ELSwhere-notification-service.git
