@@ -16,3 +16,6 @@
 [submodule "notification-service"]
 	path = notification-service
 	url = https://github.com/SWM-WeLike2Coding/ELSwhere-notification-service.git
+[submodule "batch-service"]
+	path = batch-service
+	url = https://github.com/SWM-WeLike2Coding/ELSwhere-batch-service.git
